@@ -18,7 +18,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  contact:
+  flutter_contact_picker:
     path: "../"
 
 # For information on the generic Dart part of this file, see the
